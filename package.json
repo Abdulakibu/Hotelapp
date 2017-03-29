@@ -1,0 +1,19 @@
+{
+  "name": "4-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-route": "^1.6.3",
+    "body-parser": "^1.16.1",
+    "mongodb": "^2.2.24",
+    "mongoose": "^4.8.6"
+  }
+}
